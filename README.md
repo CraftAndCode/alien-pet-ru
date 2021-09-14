@@ -47,7 +47,7 @@
 {
     "name": "Познакомьтесь с питомцем!",
     "imageUrl":"https://github.com/CraftAndCode/Shablon/blob/master/Testgif.gif?raw=true",
-    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet-test/alienpet/ru", 
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet-test/ru", 
     "description": "Улучшайте программу для питомца с нашей помощью", 
     "cardType": "tutorial",
     "label": "Advanced",
