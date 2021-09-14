@@ -1,31 +1,57 @@
+### @autoOpen = true
 
-> Open this page at [https://craftandcode.github.io/alien-pet-ru/](https://craftandcode.github.io/alien-pet-ru/)
+#### 1. Подключите ваш Micro:bit с помощью кабеля USB.
+#### 2. Синхронизируйте Micro:bit, нажав кнопку `||led....||` - `||led.Подключить устройство||`.
+#### 3. Загрузите программу инопланетного питомца, нажав `||led.Скачать||`.
+#### 4. Узнайте больше о программировании, запустив интерактивные уроки.
 
-## Использовать это расширение
 
-This repository can be added as an **extension** in MakeCode.
+## Первые шаги в программировании
+Мы рекомендуем начать с прохождения этих трёх уроков:
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/craftandcode/alien-pet-ru** and import
-
-## Править этот проект ![Build status badge](https://github.com/craftandcode/alien-pet-ru/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/craftandcode/alien-pet-ru** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/craftandcode/alien-pet-ru/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+```codecard
+[
+{
+    "name": "1.1 Ваша первая программа",
+    "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/Shablon/master/Petimage.svg",
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/your-first-program/ru", 
+    "description": "Научите Micro:bit говорить `Привет!`", 
+    "cardType": "tutorial",
+    "label": "Начните здесь!",
+    "labelClass": "purple ribbon huge"
+},
+{
+    "name": "1.2 Показываем картинки",
+    "imageUrl":"https://github.com/CraftAndCode/Shablon/blob/master/Smileyface.jpg?raw=true",
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/showing-pictures/ru", 
+    "description": "Показывайте картинки и анимации на экране", 
+    "cardType": "tutorial",
+    "label": "Easy",
+    "labelClass": "green ribbon small"
+},
+{
+    "name": "1.3 Используем кнопки",
+    "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/alien-pet/master/Pulse.gif",
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/using-buttons/ru", 
+    "description": "Научите Micro:bit реагировать на нажатие кнопок", 
+    "cardType": "tutorial",
+    "label": "Easy",
+    "labelClass": "green ribbon small"
+}
+]
+```
+## Ваш инопланетный питомец
+В этом уроке вы дополните программу вашего питомца. Это будет не так-то просто сделать!
+```codecard
+[
+{
+    "name": "Познакомьтесь с питомцем!",
+    "imageUrl":"https://github.com/CraftAndCode/Shablon/blob/master/Testgif.gif?raw=true",
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet-test/alienpet/ru", 
+    "description": "Улучшайте программу для питомца с нашей помощью", 
+    "cardType": "tutorial",
+    "label": "Advanced",
+    "labelClass": "orange ribbon small"
+}
+]
+```
